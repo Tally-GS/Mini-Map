@@ -1,0 +1,5 @@
+# ninja log v6
+4	369	7758809963432055	build.ninja	31d1a85f9ccab7fc
+48	145	7758809965124333	CMakeFiles/Mini_Map.dir/tile.cpp.obj	6706a2196369ab78
+43	723	7758809965064698	CMakeFiles/Mini_Map.dir/main.cpp.obj	d293ab44686a0e29
+725	915	7758809971890018	Mini_Map.exe	6ad21d2e7588be66

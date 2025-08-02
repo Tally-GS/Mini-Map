@@ -1,0 +1,3 @@
+C:/Users/natal/OneDrive/Desktop/College/CS/DSA/Mini-Map/cmake-build-debug/CMakeFiles/Mini_Map.dir
+C:/Users/natal/OneDrive/Desktop/College/CS/DSA/Mini-Map/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/natal/OneDrive/Desktop/College/CS/DSA/Mini-Map/cmake-build-debug/CMakeFiles/rebuild_cache.dir
